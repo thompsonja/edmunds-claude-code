@@ -1,20 +1,7 @@
 {
   "name": "edmunds-claude-code",
-  "version": "1.0.0",
-  "description": "Edmund's personal Claude Code setup with 14 productivity commands and 11 specialized AI agents for modern web development",
-  "author": {"name": "Edmund"},
   "license": "MIT",
   "commands": "./commands/",
   "agents": "./agents/",
-  "mcpServers": "./.mcp.json",
-  "keywords": [
-    "productivity",
-    "nextjs",
-    "supabase",
-    "typescript",
-    "react",
-    "api",
-    "development",
-    "mcp"
-  ],
+  "mcpServers": "./.mcp.json"
 }
