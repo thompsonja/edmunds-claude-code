@@ -5,7 +5,6 @@
   "author": {"name": "Edmund"},
   "license": "MIT",
   "commands": "./commands/",
-  "agents": "./agents/",
   "mcpServers": "./.mcp.json",
   "keywords": [
     "productivity",
